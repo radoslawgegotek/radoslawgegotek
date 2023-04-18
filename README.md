@@ -5,11 +5,8 @@
 
 - 🌱 I’m currently learning **ASP.NET, C#**
 
-- My github [https://github.com/radoslawgegotek](https://github.com/radoslawgegotek)
-
-- Contact **radek.gegotek01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- Contact **radek.gegotek01@gmail.com**
 <p align="left">
 </p>
 
