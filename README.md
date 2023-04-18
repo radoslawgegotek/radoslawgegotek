@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radek</h1>
-<h3 align="center">Industrial CS student</h3>
+<h3 align="center">Computer Science student</h3>
 
 - 🔭 I’m currently working on **Music catalog api and web app**
 
