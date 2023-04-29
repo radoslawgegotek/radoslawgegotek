@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radek</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🔭 I’m currently working on **Music catalog api and web app**
-
 - 🌱 I’m currently learning **ASP.NET, C#**
 
 <h3 align="left">Connect with me:</h3>
