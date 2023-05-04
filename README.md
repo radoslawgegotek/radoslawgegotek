@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Radek</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🌱 I’m currently learning **ASP.NET, C#**
+- Currently learning **ASP.NET, C#**
 
 <h3 align="left">Connect with me:</h3>
-- Contact **radek.gegotek01@gmail.com**
+- Contact radek.gegotek01@gmail.com
 <p align="left">
 </p>
 
