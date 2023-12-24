@@ -1,8 +1,4 @@
-<h3 align="center">Computer Science student</h3>
-
-- Currently learning **ASP.NET, C#**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 - Contact radek.gegotek01@gmail.com
 <p align="left">
 </p>
